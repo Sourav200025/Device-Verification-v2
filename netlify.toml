@@ -1,0 +1,10 @@
+[[redirects]]
+  from = "/admin"
+  to = "/.netlify/functions/admin"
+  status = 200
+
+[[redirects]]
+  from = "/api/verify"
+  to = "/.netlify/functions/verify"
+  status = 200
+  
